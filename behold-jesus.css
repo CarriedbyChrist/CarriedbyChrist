@@ -1,0 +1,30 @@
+@charset "UTF-8";
+/* CSS Document */
+.containter {
+	display: flex;
+	flex-direction: row;
+}
+.substitution {
+	width: 50%;
+}
+.typology {
+	width: 50%;
+}
+
+
+.behold-Jesus{
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+.top-header {
+	font-kerning: normal;
+	right: auto;
+}
+
+#Lamb-of-God {
+	margin-top: 0px;
+	font-stretch: expanded;
+	font-size: 12px;
+	text-align: center;
+}
